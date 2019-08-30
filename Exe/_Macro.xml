@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroSet>
+  <Macros>
+    <Name>DoubleClick</Name>
+    <KeyCode>65</KeyCode>
+    <MacroCommands Type="1">
+      <X>500</X>
+      <Y>700</Y>
+    </MacroCommands>
+    <MacroCommands Type="2"/>
+    <MacroCommands Type="3">
+      <Delay>2000</Delay>
+    </MacroCommands>
+    <MacroCommands Type="4"/>
+  </Macros>
+  <Macros>
+    <Name>TestCmd</Name>
+    <KeyCode>66</KeyCode>
+    <MacroCommands Type="1">
+      <X>640</X>
+      <Y>480</Y>
+      <Delay>0</Delay>
+    </MacroCommands>
+  </Macros>
+</MacroSet>

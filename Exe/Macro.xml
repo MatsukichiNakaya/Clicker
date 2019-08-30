@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroSet>
+  <Macros>
+    <Name>RecMacro</Name>
+    <KeyCode>163</KeyCode>
+    <MacroCommands Type="1">
+      <X>439</X>
+      <Y>318</Y>
+      <Delay>0</Delay>
+    </MacroCommands>
+    <MacroCommands Type="3">
+      <Delay>500</Delay>
+    </MacroCommands>
+    <MacroCommands Type="1">
+      <X>1092</X>
+      <Y>532</Y>
+      <Delay>0</Delay>
+    </MacroCommands>
+    <MacroCommands Type="3">
+      <Delay>500</Delay>
+    </MacroCommands>
+    <MacroCommands Type="1">
+      <X>477</X>
+      <Y>706</Y>
+      <Delay>0</Delay>
+    </MacroCommands>
+    <MacroCommands Type="3">
+      <Delay>500</Delay>
+    </MacroCommands>
+    <MacroCommands Type="1">
+      <X>-238</X>
+      <Y>582</Y>
+      <Delay>0</Delay>
+    </MacroCommands>
+    <MacroCommands Type="3">
+      <Delay>500</Delay>
+    </MacroCommands>
+    <MacroCommands Type="1">
+      <X>1903</X>
+      <Y>375</Y>
+      <Delay>0</Delay>
+    </MacroCommands>
+  </Macros>
+</MacroSet>
